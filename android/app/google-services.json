@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "602152987671",
+    "firebase_url": "https://analizci-9117d.firebaseio.com",
+    "project_id": "analizci-9117d",
+    "storage_bucket": "analizci-9117d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602152987671:android:e9c932238ca3cbc8",
+        "android_client_info": {
+          "package_name": "org.janissaries.analizci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602152987671-n7kmc0brib1ep319bukg9tnukl22232e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX9LEKzL-0o4WS_l-Q0Y9UkjzRqbvq0p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602152987671-n7kmc0brib1ep319bukg9tnukl22232e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
